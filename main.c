@@ -1,4 +1,4 @@
-Update in feature 1
+Update in feature 2 and Update in feature 1
 pseudo code
 {
 Initial Function()
